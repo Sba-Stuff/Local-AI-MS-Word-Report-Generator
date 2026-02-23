@@ -15,6 +15,8 @@
 ## 📋 Overview
 
 **AI Report Generator** is a PowerShell script with a Windows Forms GUI that connects to a local LM Studio instance to automatically generate complete, professionally formatted Microsoft Word reports. Simply enter a title and detailed instructions, and the AI handles everything:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f21aa850-3e78-426a-bf69-719a0893c522" />
+
 
 - 📝 **Generates** a structured outline based on your specific requirements
 - ✍️ **Creates** 3-5 detailed paragraphs for each section
